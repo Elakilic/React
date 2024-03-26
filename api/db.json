@@ -1,0 +1,34 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "content": "Muhteşem Angular Kursu  Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis ad magni neque, cumque aliquid suscipit sint nam, voluptatum illo alias odio maxime tempora sit corrupti reprehenderit architecto fugit nobis ab.",
+      "title": "Angular",
+      "price": "69TL"
+    },
+    {
+      "id": 2,
+      "content": "Muhteşem Bootstrap5 Kursu  Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis ad magni neque, cumque aliquid suscipit sint nam, voluptatum illo alias odio maxime tempora sit corrupti reprehenderit architecto fugit nobis ab. ",
+      "title": "Bootstrap5",
+      "price":"69TL"
+    },
+    {
+      "id": 3,
+      "content": "Muhteşem C Programlama Kursu  Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis ad magni neque, cumque aliquid suscipit sint nam, voluptatum illo alias odio maxime tempora sit corrupti reprehenderit architecto fugit nobis ab.",
+      "title": "C Programlama",
+      "price": "69TL"
+    },
+    {
+      "id": 4,
+      "content": "Muhteşem Front End Kursu  Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis ad magni neque, cumque aliquid suscipit sint nam, voluptatum illo alias odio maxime tempora sit corrupti reprehenderit architecto fugit nobis ab. ",
+      "title": "Frontend",
+      "price": "69TL"
+    },
+    {
+      "id": 5,
+      "content": "Muhteşem HTML Kursu Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis ad magni neque, cumque aliquid suscipit sint nam, voluptatum illo alias odio maxime tempora sit corrupti reprehenderit architecto fugit nobis ab. ",
+      "title": "HTML",
+      "price": "0TL"
+    }
+  ]
+}

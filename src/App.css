@@ -22,7 +22,7 @@
   color: red;
 }
 .cardDeleteBtn{
-  width: 100px;
+  width: 200px;
   padding: 10px;
   border-radius: 30px;
   border: none;
@@ -32,4 +32,15 @@
 
 .refreshDiv{
   text-align: center;
+}
+
+.prevNext{
+  border: none;
+  background-color: white;
+  font-size: 20px;
+  color: red;
+}
+.courseTitleAndButton{
+  text-align: center;
+  margin-bottom: 20px;
 }
